@@ -9,7 +9,7 @@ This is code for assigment in Pem. Mobile with Framework React Native for buildi
 - [x] Home
 - [x] Profile
 - [x] Logout
-- [x] JWT Token Bearer
+- [x] Json Web Token Token Bearer
 - [X] Session and Cookie
 
 ### Installing and running program 🚀
@@ -18,6 +18,12 @@ This is code for assigment in Pem. Mobile with Framework React Native for buildi
 - react-native run-android
 
 ### Screenshoot Reviews 🚀
+
+- [x] Back End Token JWT Success
+![alt text](https://github.com/vh4/ReactNative_Instagram/blob/master/screenshoot/token1.png)
+
+- [x] Back End Token JWT Failure
+![alt text](https://github.com/vh4/ReactNative_Instagram/blob/master/screenshoot/token2.png)
 
 - [x] Menu 1
 
